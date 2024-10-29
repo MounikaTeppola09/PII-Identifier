@@ -81,9 +81,9 @@ JSON object containing the extracted PII entities.
 
 The requirements.txt file includes the following dependencies:
 
-- 'fastapi'
-- 'uvicorn'
-- 'flask'
-- 'flask-cors'
+- `fastapi`
+- `uvicorn`
+- `flask`
+- `flask-cors`
 
 You can install them all using the command provided in the Installation section.
